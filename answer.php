@@ -34,7 +34,7 @@
     href="./favicon-16x16new.png"
   />
     <link rel="manifest" href="./site.webmanifest" />
-    <title>The XXX program, PHP</title>
+    <title>The "Hello, World!" program, PHP</title>
   </head>
 
   <body>
@@ -42,14 +42,14 @@
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       <header class="mdl-layout__header">
         <div class="mdl-layout__header-row">
-          <span class="mdl-layout-title">The XXX program, PHP</span>
+          <span class="mdl-layout-title">The "Hello,World!" program, PHP</span>
         </div>
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
           <img src="./images/cinnamoroll.jpeg" alt="Cinnamoroll" />
         </div>
-        <div class="page-content">The answer is ...</div>
+        <div class="page-content">Hello, World!</div>
         <br />
         <div class="page-content-answer">
           <a href="./index.php">Return ...</a>
